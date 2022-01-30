@@ -1,0 +1,16 @@
+title: cv
+author: 
+  name: Claudio Nicoli Pannacci
+  email: claudio.pannacci@protonmail.com
+description: > 
+  curriculum vitae
+
+show_excerpts: false
+
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark
+
+plugins:
+  - jekyll-feed
