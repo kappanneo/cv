@@ -5,6 +5,8 @@ author:
 description: > 
   a website i said i would never make
 
+header_pages:
+
 show_excerpts: false
 
 remote_theme: jekyll/minima
