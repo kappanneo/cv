@@ -2,4 +2,4 @@
 title: stuff i made
 ---
 
-- [pronomee](./pronomee)
+- [pronomee](https://kappann.eu/pronomee)
