@@ -1,11 +1,11 @@
 title: kappann.eu
 author: 
   name: Claudio Nicoli Pannacci
-  email: claudio.pannacci@protonmail.com
+  email: claudio.nicoli@pannac.ci
 description: > 
   a website i said i would never make
 
-header_pages:
+edit: https://github.com/kappanneo/cv/edit/master/README.md
 
 show_excerpts: false
 
@@ -17,6 +17,7 @@ minima:
   social_links:
     github: kappanneo
     telegram: kappanneo
+    patreon: kappanneo
 
     youtube_channel: UCf6quihS27BUnkKfJfLM4Gw
     youtube_channel_name: kappanneo
@@ -24,6 +25,3 @@ minima:
     gitlab:
       - username: kappanneo
       - instance: gitlab.com
-
-plugins:
-  - jekyll-feed
