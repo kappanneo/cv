@@ -8,6 +8,6 @@ my curriculum vitae
     </embed>
 </object>
 
-\> [get pdf](https://github.com/kappanneo/cv/releases/latest/download/cv.pdf) <
+\> [get pdf](https://github.com/kappanneo/cv/releases/latest/download/cv.pdf) \<
 
 > written in and compiled from LaTeX @ [overleaf.com](https://www.overleaf.com/)
